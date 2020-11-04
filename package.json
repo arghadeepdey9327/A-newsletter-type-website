@@ -1,0 +1,19 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "A signup page for Newsletter.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arghadeep dey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
